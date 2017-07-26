@@ -1,2 +1,2 @@
-FROM mysql/mysql-server:5.6.27
+FROM aodemo/data-generator:b241
 ENTRYPOINT ["/bin/bash"]
